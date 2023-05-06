@@ -6,7 +6,7 @@ Use Jump to Sheet to type a few letters of the worksheet's name and get to it st
 Without leaving the keyboard.
 
 HOW TO USE
-1. Download the file ("Jump to Sheet.xlam")
+1. Download the Jump to Sheet add-in file ("Jump to Sheet.xlam")
 2. Open Excel
 3. Go to File > Options > Add-ins
 4. In the "Manage" dropdown at the bottom of the window, select "Excel Add-ins" and click "Go"
