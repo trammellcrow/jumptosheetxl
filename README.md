@@ -5,7 +5,7 @@ Tired of cycling through them individually to find the one you're looking for?
 Use Jump to Sheet to type a few letters of the worksheet's name and get to it straight away.  
 Without leaving the keyboard.
 
-HOWE TO USE
+HOW TO USE
 1. Download the file ("Jump to Sheet.xlam")
 2. Open Excel
 3. Go to File > Options > Add-ins
