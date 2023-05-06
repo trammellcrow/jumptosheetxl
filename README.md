@@ -1,9 +1,7 @@
 # jumptosheetxl README
 
 Have an Excel file with a lot of worksheets?  
-
 Tired of cycling through them individually to find the one you're looking for?  
-
 Use Jump to Sheet to type a few letters of the worksheet's name and get to it straight away without leaving the keyboard.
 
 HOWE TO USE
